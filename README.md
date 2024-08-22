@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Oğuzcan Gündüz
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently React Native ...
-- 📫 iletisim@oguzcangunduz.com.tr
+- 📫 ankagndz@gmail.com
